@@ -2,7 +2,7 @@
 
 [![Python Lint](https://github.com/cleversonahum/breast_cancer_diagnosis/actions/workflows/lint.yml/badge.svg)](https://github.com/cleversonahum/breast_cancer_diagnosis/actions/workflows/lint.yml)
 
-Python implementation to the paper "Evaluation of computationally intelligent techniques for breast cancer diagnosis" published on Neural Computing and Aplications journal (2021).
+Python implementation to the paper ["Evaluation of computationally intelligent techniques for breast cancer diagnosis"](https://link.springer.com/article/10.1007/s00521-020-05204-y) published on Neural Computing and Aplications journal (2021).
 
 ## Install
 
