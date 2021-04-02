@@ -1,6 +1,6 @@
 # breast_cancer_diagnosis
 
-[![pipeline status](https://gitlab.lasse.ufpa.br/2020-ai-testbed/ai-testbed/simple-ml-ran-slicing/badges/master/pipeline.svg)](https://gitlab.lasse.ufpa.br/2020-ai-testbed/ai-testbed/simple-ml-ran-slicing/-/commits/master)
+[![Python Lint](https://github.com/cleversonahum/breast_cancer_diagnosis/actions/workflows/lint.yml/badge.svg)](https://github.com/cleversonahum/breast_cancer_diagnosis/actions/workflows/lint.yml)
 
 Python implementation to the paper "Evaluation of computationally intelligent techniques for breast cancer diagnosis" published on Neural Computing and Aplications journal (2021).
 
