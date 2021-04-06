@@ -8,6 +8,11 @@ black = "*"
 flake8 = "*"
 isort = "*"
 pre-commit = "*"
+tensorflow = "*"
+pandas = "*"
+sklearn = "*"
+jupyter = "*"
+matplotlib = "*"
 
 [dev-packages]
 
