@@ -13,6 +13,8 @@ pandas = "*"
 sklearn = "*"
 jupyter = "*"
 matplotlib = "*"
+ipython = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
