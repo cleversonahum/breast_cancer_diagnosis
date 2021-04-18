@@ -22,4 +22,13 @@ Python implementation to the paper ["Evaluation of computationally intelligent t
 ## Running
 
 - Inside the virtual environment, execute the test server using `python SCRIPT_NAME_HERE`
-- 
+
+## Slides
+- Run: `pipenv shell`;
+- Than run: `jupyter notebook`;
+- Open the slide/slide.ipynb;
+- Click on `Enter/Exit Live Reveal Slideshow` or type `Alt-r`
+
+- You can execute the conde on the slides by typing: `shift-enter`
+
+To read more about the slides read the documentation at: https://rise.readthedocs.io/en/stable/
